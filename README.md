@@ -1,7 +1,7 @@
 Sydney Advertising Map
 ======================
 
-Live at sydneyadvertisingmap.com! See the announcement blog at https://jakecoppinger.com/2022/10/mapping-sydney-billboards-a-map-of-every-qms-advertising-screen-in-sydney-with-photographs/ for further details.
+Live at [SydneyAdvertisingMap.com](https://sydneyadvertisingmap.com)! See the announcement blog at https://jakecoppinger.com/2022/10/mapping-sydney-billboards-a-map-of-every-qms-advertising-screen-in-sydney-with-photographs/ for further details.
 
 Through August and October I visited every QMS advertising panel in Sydney. I surveyed their
 location and ref code to add to OpenStreetMap, an open geospatial database that powers many maps
