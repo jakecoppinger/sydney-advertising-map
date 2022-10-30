@@ -1,0 +1,3202 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-10-29T04:28:22Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6600061459",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-10-25",
+        "lit": "yes",
+        "mapillary": "495152759333944",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.206963,
+          -33.8802474
+        ]
+      },
+      "id": "node/6600061459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9933114003",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2116323,
+          -33.8632915
+        ]
+      },
+      "id": "node/9933114003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9933122102",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2076825,
+          -33.8637745
+        ]
+      },
+      "id": "node/9933122102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935082005",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "196356969472613",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1221",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2083543,
+          -33.8693095
+        ]
+      },
+      "id": "node/9935082005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935089297",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1010",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2040885,
+          -33.8790013
+        ]
+      },
+      "id": "node/9935089297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935097900",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "427782782891561",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1172",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2054684,
+          -33.8742925
+        ]
+      },
+      "id": "node/9935097900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935115072",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2058964,
+          -33.8819265
+        ]
+      },
+      "id": "node/9935115072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935121057",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3001",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1876832,
+          -33.8921584
+        ]
+      },
+      "id": "node/9935121057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935121061",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2081844,
+          -33.8687816
+        ]
+      },
+      "id": "node/9935121061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935128557",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1952862,
+          -33.8976807
+        ]
+      },
+      "id": "node/9935128557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935128907",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-08-06",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2040836,
+          -33.8784824
+        ]
+      },
+      "id": "node/9935128907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935135874",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1126",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2034077,
+          -33.8793563
+        ]
+      },
+      "id": "node/9935135874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935141850",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P5025",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1978586,
+          -33.8842186
+        ]
+      },
+      "id": "node/9935141850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935141851",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1036",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2038939,
+          -33.8832623
+        ]
+      },
+      "id": "node/9935141851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935146716",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1011",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2041022,
+          -33.8791722
+        ]
+      },
+      "id": "node/9935146716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935151287",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2040572,
+          -33.8782262
+        ]
+      },
+      "id": "node/9935151287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935155950",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3037",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1999387,
+          -33.8916632
+        ]
+      },
+      "id": "node/9935155950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935156383",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P5024",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1967722,
+          -33.8842436
+        ]
+      },
+      "id": "node/9935156383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935157371",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1959386,
+          -33.8912107
+        ]
+      },
+      "id": "node/9935157371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935157372",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3034",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1961421,
+          -33.8842683
+        ]
+      },
+      "id": "node/9935157372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935166923",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1083",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2033527,
+          -33.8841771
+        ]
+      },
+      "id": "node/9935166923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935166925",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1048",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.208234,
+          -33.8690165
+        ]
+      },
+      "id": "node/9935166925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935171624",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P5031",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1936398,
+          -33.8874555
+        ]
+      },
+      "id": "node/9935171624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935171625",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.203527,
+          -33.8831262
+        ]
+      },
+      "id": "node/9935171625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935171626",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1129",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2037515,
+          -33.8776628
+        ]
+      },
+      "id": "node/9935171626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935172921",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P5023",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1948803,
+          -33.8831383
+        ]
+      },
+      "id": "node/9935172921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9951762554",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "779080516501486",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3013",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2227159,
+          -33.8747748
+        ]
+      },
+      "id": "node/9951762554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9951800864",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "806346713923826",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3016",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2226529,
+          -33.8749286
+        ]
+      },
+      "id": "node/9951800864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081050331",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1197",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.211188,
+          -33.8676466
+        ]
+      },
+      "id": "node/10081050331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081054412",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1049",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2124274,
+          -33.8655064
+        ]
+      },
+      "id": "node/10081054412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081071872",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1008",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2102208,
+          -33.8616329
+        ]
+      },
+      "id": "node/10081071872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081081889",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1076",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2071653,
+          -33.8633924
+        ]
+      },
+      "id": "node/10081081889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081099284",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2074289,
+          -33.8652126
+        ]
+      },
+      "id": "node/10081099284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081099286",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1110",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2108036,
+          -33.8678546
+        ]
+      },
+      "id": "node/10081099286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081099287",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1195",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2086352,
+          -33.86755
+        ]
+      },
+      "id": "node/10081099287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081105134",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1032",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2072871,
+          -33.8647015
+        ]
+      },
+      "id": "node/10081105134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081105135",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1003",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2105459,
+          -33.8615404
+        ]
+      },
+      "id": "node/10081105135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081105616",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2071782,
+          -33.8660465
+        ]
+      },
+      "id": "node/10081105616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081116108",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1124",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2106416,
+          -33.8615892
+        ]
+      },
+      "id": "node/10081116108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081116109",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1087",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2097253,
+          -33.8680529
+        ]
+      },
+      "id": "node/10081116109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081118846",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1007",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2098255,
+          -33.861595
+        ]
+      },
+      "id": "node/10081118846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081120330",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2073452,
+          -33.8638446
+        ]
+      },
+      "id": "node/10081120330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081120332",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1061",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2114918,
+          -33.8616889
+        ]
+      },
+      "id": "node/10081120332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081121971",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1111",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2091058,
+          -33.8677239
+        ]
+      },
+      "id": "node/10081121971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081122036",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1158",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2084381,
+          -33.8681659
+        ]
+      },
+      "id": "node/10081122036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081122187",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1125",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.211192,
+          -33.8616635
+        ]
+      },
+      "id": "node/10081122187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081122607",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1133",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2127457,
+          -33.8634845
+        ]
+      },
+      "id": "node/10081122607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081126809",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1006",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093978,
+          -33.8615526
+        ]
+      },
+      "id": "node/10081126809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081131070",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "fixme": "Needs resurvey - not sure why in middle of road. This may actually be the ad screen just to south-east.",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1191",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2075903,
+          -33.8636729
+        ]
+      },
+      "id": "node/10081131070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081131144",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1022",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2082033,
+          -33.8613521
+        ]
+      },
+      "id": "node/10081131144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096937329",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "167300255947247",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1092",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2117295,
+          -33.8769501
+        ]
+      },
+      "id": "node/10096937329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096943686",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "520492776259498",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1052",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2067232,
+          -33.8707202
+        ]
+      },
+      "id": "node/10096943686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096951007",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1229013291001075",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1199",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2085985,
+          -33.8668345
+        ]
+      },
+      "id": "node/10096951007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096951009",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1171",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2099585,
+          -33.8663716
+        ]
+      },
+      "id": "node/10096951009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096951010",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2101518,
+          -33.8704657
+        ]
+      },
+      "id": "node/10096951010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096951011",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "2203145819847407",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1091",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2121032,
+          -33.876573
+        ]
+      },
+      "id": "node/10096951011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096956587",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2118158,
+          -33.8651695
+        ]
+      },
+      "id": "node/10096956587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096956876",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "775309063569208",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2111266,
+          -33.8691111
+        ]
+      },
+      "id": "node/10096956876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096957812",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1098",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2107027,
+          -33.8661823
+        ]
+      },
+      "id": "node/10096957812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096958093",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "3243476589246292",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P5029",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.209278,
+          -33.8767775
+        ]
+      },
+      "id": "node/10096958093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096960889",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "535497565252336",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1122",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2091933,
+          -33.8623844
+        ]
+      },
+      "id": "node/10096960889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096960891",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "850016696002086",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1137",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2122006,
+          -33.8685626
+        ]
+      },
+      "id": "node/10096960891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096960892",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "199409449170833",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1051",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2098734,
+          -33.8707792
+        ]
+      },
+      "id": "node/10096960892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096962179",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "420213220309014",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1026",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.206988,
+          -33.8698001
+        ]
+      },
+      "id": "node/10096962179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096967325",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "5357866340934458",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1065",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2087794,
+          -33.8644425
+        ]
+      },
+      "id": "node/10096967325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096970395",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "194068029702379",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1015",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2102949,
+          -33.869453
+        ]
+      },
+      "id": "node/10096970395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096972596",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1094",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2086933,
+          -33.8659778
+        ]
+      },
+      "id": "node/10096972596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096972598",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1123",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2092455,
+          -33.8769423
+        ]
+      },
+      "id": "node/10096972598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096976338",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "3261122344099374",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1008",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2119565,
+          -33.8694581
+        ]
+      },
+      "id": "node/10096976338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096978719",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1096447344406056",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.209997,
+          -33.8659935
+        ]
+      },
+      "id": "node/10096978719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096979237",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "798719737851968",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P5028",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2114677,
+          -33.8648982
+        ]
+      },
+      "id": "node/10096979237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096979342",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "2336662293181492",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1189",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2092573,
+          -33.8658847
+        ]
+      },
+      "id": "node/10096979342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096979343",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "683871073248520",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2112397,
+          -33.8659303
+        ]
+      },
+      "id": "node/10096979343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096980341",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "4865275096909490",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2115415,
+          -33.8653712
+        ]
+      },
+      "id": "node/10096980341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096981473",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1821981134804594",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1136",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2095062,
+          -33.8700346
+        ]
+      },
+      "id": "node/10096981473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096981755",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "2975706452726448",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1134",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2091439,
+          -33.8636719
+        ]
+      },
+      "id": "node/10096981755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096981993",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "187294823853306",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P5027",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2099911,
+          -33.8690665
+        ]
+      },
+      "id": "node/10096981993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096981994",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1216735769054408",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3020",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2127444,
+          -33.8770569
+        ]
+      },
+      "id": "node/10096981994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117658879",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "790709632232519",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1070",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2038228,
+          -33.8700222
+        ]
+      },
+      "id": "node/10117658879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117660899",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1130",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2038576,
+          -33.8714169
+        ]
+      },
+      "id": "node/10117660899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117677033",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "582560106970633",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2052637,
+          -33.871014
+        ]
+      },
+      "id": "node/10117677033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117680372",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1085",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2058456,
+          -33.8686294
+        ]
+      },
+      "id": "node/10117680372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117680636",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "987817062175740",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2063849,
+          -33.8686293
+        ]
+      },
+      "id": "node/10117680636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117682678",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "5632539896838272",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1046",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2050091,
+          -33.8708941
+        ]
+      },
+      "id": "node/10117682678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125920600",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "2008727985982819",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3015",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2233633,
+          -33.8748912
+        ]
+      },
+      "id": "node/10125920600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125922007",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "505718184761815",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1033",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2070654,
+          -33.8720433
+        ]
+      },
+      "id": "node/10125922007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125935907",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-10-21",
+        "lit": "yes",
+        "mapillary": "413292454164492",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2080707,
+          -33.8729265
+        ]
+      },
+      "id": "node/10125935907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125957763",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1120",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2082872,
+          -33.870192
+        ]
+      },
+      "id": "node/10125957763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125959704",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "2430024813805546",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3032",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2214793,
+          -33.8750856
+        ]
+      },
+      "id": "node/10125959704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125961741",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "185010274104896",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1063",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2080895,
+          -33.8727041
+        ]
+      },
+      "id": "node/10125961741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125962333",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1119",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2082323,
+          -33.8699221
+        ]
+      },
+      "id": "node/10125962333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125962334",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-10-21",
+        "lit": "yes",
+        "mapillary": "506399621405753",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2252788,
+          -33.8703743
+        ]
+      },
+      "id": "node/10125962334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125962335",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "661862052070606",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3042",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2219671,
+          -33.8761879
+        ]
+      },
+      "id": "node/10125962335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125964020",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "625604099043925",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3030",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.214634,
+          -33.8739538
+        ]
+      },
+      "id": "node/10125964020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125975116",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "192017233336600",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1156",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2090112,
+          -33.873298
+        ]
+      },
+      "id": "node/10125975116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125975440",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "673689714148979",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3014",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2246571,
+          -33.8750632
+        ]
+      },
+      "id": "node/10125975440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125975441",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "210351631421221",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3004",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.225326,
+          -33.870157
+        ]
+      },
+      "id": "node/10125975441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125976083",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "199150929183750",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1052",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2070715,
+          -33.8734718
+        ]
+      },
+      "id": "node/10125976083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125976084",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "500762002065465",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1089",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2097517,
+          -33.8735465
+        ]
+      },
+      "id": "node/10125976084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125976086",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "8698396340201203",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3027",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2191642,
+          -33.8814621
+        ]
+      },
+      "id": "node/10125976086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125985181",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "660343659008775",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1069",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2098574,
+          -33.8727754
+        ]
+      },
+      "id": "node/10125985181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125985952",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-10-21",
+        "lit": "yes",
+        "mapillary": "832497174836943",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2091759,
+          -33.8740897
+        ]
+      },
+      "id": "node/10125985952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125987721",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "5367854886669658",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3006",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2244821,
+          -33.8732326
+        ]
+      },
+      "id": "node/10125987721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125990014",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "415175417301081",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3018",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2258948,
+          -33.8729121
+        ]
+      },
+      "id": "node/10125990014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125991662",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "198856192590179",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3049",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2255751,
+          -33.8760717
+        ]
+      },
+      "id": "node/10125991662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125992160",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "362188112763975",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1090",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2131552,
+          -33.8739211
+        ]
+      },
+      "id": "node/10125992160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125992161",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "804817054130853",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3051",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2280178,
+          -33.8761693
+        ]
+      },
+      "id": "node/10125992161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125995310",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "538870108051700",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3068",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2183781,
+          -33.8727932
+        ]
+      },
+      "id": "node/10125995310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125996449",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1223191141743273",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1056",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2102793,
+          -33.8734848
+        ]
+      },
+      "id": "node/10125996449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125996451",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "623518139472449",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3002",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2249186,
+          -33.8729927
+        ]
+      },
+      "id": "node/10125996451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125997102",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "185315620690140",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1027",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2082255,
+          -33.8725249
+        ]
+      },
+      "id": "node/10125997102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125998618",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1254312578634624",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3028",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2211078,
+          -33.8794034
+        ]
+      },
+      "id": "node/10125998618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127274100",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "784489719510581",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3039",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2148217,
+          -33.8787553
+        ]
+      },
+      "id": "node/10127274100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127274101",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1133288087573250",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3021",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2150155,
+          -33.8792335
+        ]
+      },
+      "id": "node/10127274101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127274102",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "207526724952641",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3057",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2152176,
+          -33.8796108
+        ]
+      },
+      "id": "node/10127274102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127274103",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "890303888627939",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3019",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2161678,
+          -33.8798831
+        ]
+      },
+      "id": "node/10127274103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127274105",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "197020869453104",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3023",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2166131,
+          -33.8805243
+        ]
+      },
+      "id": "node/10127274105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127274107",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1183185555951006",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3040",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2173284,
+          -33.8806853
+        ]
+      },
+      "id": "node/10127274107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127278979",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-10-25",
+        "lit": "yes",
+        "mapillary": "656294185861088",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2057724,
+          -33.876272
+        ]
+      },
+      "id": "node/10127278979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127287801",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-10-25",
+        "lit": "yes",
+        "mapillary": "1142187409765077",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2050365,
+          -33.8800486
+        ]
+      },
+      "id": "node/10127287801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127291158",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-10-25",
+        "lit": "yes",
+        "mapillary": "532514188674115",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2052504,
+          -33.879476
+        ]
+      },
+      "id": "node/10127291158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127292265",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-10-25",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2050329,
+          -33.880756
+        ]
+      },
+      "id": "node/10127292265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127318716",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "description": "This ad display is not attached to a bus shelter.",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2059206,
+          -33.8669492
+        ]
+      },
+      "id": "node/10127318716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127324465",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1187",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2052538,
+          -33.8667341
+        ]
+      },
+      "id": "node/10127324465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127326217",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "check_date": "2022-10-26",
+        "lit": "yes",
+        "mapillary": "847113479642386",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2059859,
+          -33.8766142
+        ]
+      },
+      "id": "node/10127326217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10129267211",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1295147677901021",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3026",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2207842,
+          -33.8833345
+        ]
+      },
+      "id": "node/10129267211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10129340547",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1018110862918924",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2064147,
+          -33.8710538
+        ]
+      },
+      "id": "node/10129340547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10129366315",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "163982519644101",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3052",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2314755,
+          -33.8881846
+        ]
+      },
+      "id": "node/10129366315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10129367923",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1279431809501968",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3046",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2188867,
+          -33.8862007
+        ]
+      },
+      "id": "node/10129367923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10129368814",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "636532604802538",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1160",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2086948,
+          -33.882118
+        ]
+      },
+      "id": "node/10129368814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10134445278",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "142320031877991",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1133",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.203117,
+          -33.9061678
+        ]
+      },
+      "id": "node/10134445278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10134463845",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1100597303965635",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3025",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2173026,
+          -33.8809061
+        ]
+      },
+      "id": "node/10134463845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10134463991",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "843523143760558",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3067",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2054519,
+          -33.9041684
+        ]
+      },
+      "id": "node/10134463991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10134464851",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "551736586784718",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1061",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2138945,
+          -33.8863073
+        ]
+      },
+      "id": "node/10134464851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10134466508",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "473935348038509",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P1012",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2091322,
+          -33.8800829
+        ]
+      },
+      "id": "node/10134466508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10134469026",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "698247187963552",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3048",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2141399,
+          -33.8842577
+        ]
+      },
+      "id": "node/10134469026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10134470948",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "5359875844139943",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "AB1132",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2094324,
+          -33.9006827
+        ]
+      },
+      "id": "node/10134470948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10134477311",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "185925580613550",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "none",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.207978,
+          -33.8901799
+        ]
+      },
+      "id": "node/10134477311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10134483208",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "153712094021932",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "P3056",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.216721,
+          -33.881336
+        ]
+      },
+      "id": "node/10134483208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10136494429",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "2320086651505090",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "unknown",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2059754,
+          -33.8688073
+        ]
+      },
+      "id": "node/10136494429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10136494431",
+        "advertising": "poster_box",
+        "animated": "screen",
+        "lit": "yes",
+        "mapillary": "1247126432529122",
+        "operator": "QMS",
+        "operator:website": "https://www.qmsmedia.com/",
+        "ref": "unknown",
+        "sides": "2",
+        "support": "ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093802,
+          -33.8745391
+        ]
+      },
+      "id": "node/10136494431"
+    }
+  ]
+}
