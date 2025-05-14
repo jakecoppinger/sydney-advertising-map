@@ -11,8 +11,9 @@ import {
   processOsmData,
 } from "./drawmap";
 
-const MAPBOX_TOKEN =
-  "pk.eyJ1IjoiamFrZWMiLCJhIjoiY2tkaHplNGhjMDAyMDJybW4ybmRqbTBmMyJ9.AR_fnEuka8-cFb4Snp3upw";
+/** Sydney Advertising Map specific token */
+const MAPBOX_TOKEN = "pk.eyJ1IjoiamFrZWMiLCJhIjoiY21hbmE4aHl0MHRpazJtb3NheHlrcjIxNyJ9.3B5eS-K0lRClLKwjKpCL1Q";
+
 interface State {
   viewport: {
     longitude: number;
